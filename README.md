@@ -18,6 +18,7 @@ Illustrator script to clean CLO3D's PDF Export
 ## Script folders
 - Windows: C:\Program Files\Adobe\Adobe Illustrator XXX\Presets\yy_YY\Scripts
 - Mac: /Applications/Adobe Illustrator XXX/Presets/yy_YY/Scripts
+
 Note: The folder path depends on your version of Illustrator and its language
 
 ## Add Shortcut
