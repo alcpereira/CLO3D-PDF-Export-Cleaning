@@ -11,7 +11,7 @@ Illustrator script to clean CLO3D's PDF Export
 
 # How to install?
 ## Easy install
-1. Download the [file] (https://raw.githubusercontent.com/alcpereira/CLO3D-PDF-Export-Cleaning/main/CLO3DCleaning.jsx)
+1. Download the [file](https://raw.githubusercontent.com/alcpereira/CLO3D-PDF-Export-Cleaning/main/CLO3DCleaning.jsx)
 2. Save it into the Scripts folder (see below)
 3. Run from Illustrator: File > Script > CLO3DCleaning
 
