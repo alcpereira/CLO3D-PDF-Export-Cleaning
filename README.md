@@ -7,7 +7,7 @@ Illustrator script to clean CLO3D's PDF Export
 - Delete Blue lines (yet to identify, but it seems like a reference when using Pattern Outline)
 - Corrects the Sewing Allowance color (grey to black)
 - Sets the Stroke width to 1pt (can be changed)
+- Remove duplicated notches
 
 # TODO
 - Readme: How to install
-- Removing duplicates notches
